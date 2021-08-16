@@ -1,0 +1,33 @@
+{
+    "workshoptitle": "Oracle Database On-Premise ADG",
+    "tutorials": [
+        {           
+            "title": "Introduction",
+            "filename": "../../introduction/introduction.md"
+        },
+        {            
+            "title": "Lab 1: Environment Setup",
+            "filename": "../../setup-environment/setup-environment.md"
+        },
+        {            
+            "title": "Lab 2: Prepare the Primary Database",
+            "filename": "../../prepare-primary/prepare-primary.md"
+        },
+        {            
+            "title": "Lab 3: Setup Connectivity Between Primary and Standby",
+            "filename": "../../connect-primary-standby/connect-primary-standby.md"
+        },
+        {            
+            "title": "Lab 4: Deploy Active Data Guard",
+            "filename": "../../deploy-adg-lvm/deploy-adg-lvm.md"
+        },
+        {            
+            "title": "Lab 5: Testing with Active Data Guard",
+            "filename": "../../test-with-adg/test-with-adg.md"
+        },
+        {            
+            "title": "Lab 6: Failover and Reinstate",
+            "filename": "../../failover-and-reinstate/failover-and-reinstate.md"
+        }
+    ]
+}
